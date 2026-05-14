@@ -12,7 +12,7 @@
 Fullstack/ML/DevOps
 Embedded enthusiast
 
-#C/C++ & Haskell for chill
+C/C++ & Haskell for chill
 
 **`// NEURAL STACK`**
 
