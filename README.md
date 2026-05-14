@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=[SYSTEM%20BREACH%20DETECTED]&fontSize=40&color=0:000000,100:001a00&fontColor=00ff41&stroke=00ff41&strokeWidth=2&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=[В6I_Н@}{oDI/ITeS_VNE_INTErrrrr.net.a]&fontSize=40&color=0:000000,100:001a00&fontColor=00ff41&stroke=00ff41&strokeWidth=2&animation=twinkling"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
