@@ -1,5 +1,209 @@
 <div align="center">
 
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=[SYSTEM%20BREACH%20DETECTED]&fontSize=40&color=0:000000,100:001a00&fontColor=00ff41&stroke=00ff41&strokeWidth=2&animation=twinkling"/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > INITIALIZING CONNECTION...                                    ║
+║  > BYPASSING FIREWALL......................[OK]                   ║
+║  > DECRYPTING IDENTITY.....................[OK]                   ║
+║  > LOADING PROFILE........................[DONE]                  ║
+║                                                                  ║
+║    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗              ║
+║    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗             ║
+║    ███████║███████║██║     █████╔╝ █████╗  ██████╔╝             ║
+║    ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗             ║
+║    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║             ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝            ║
+║                                                                  ║
+║  alias: YOUR_USERNAME  |  loc: /dev/null  |  clearance: ROOT     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5BROOT%40github%5D%23+whoami;Fullstack+Engineer+%2F+ML+Operator;%5BROOT%40github%5D%23+cat+%2Fetc%2Fmotto;%22The+best+code+is+no+code%22;%5BROOT%40github%5D%23+uname+-a;Linux+prod-server+%7C+COFFEE-POWERED+%7C+NO+SLEEP)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=CONNECTIONS+LOGGED)
+
+</div>
+
+---
+
+```bash
+[ROOT@github ~]# cat /proc/identity
+```
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   HANDLE   ::  YOUR_USERNAME                                    │
+│   LOCATION ::  🇰🇿 KZ  //  KERNEL TIMEZONE: UTC+5              │
+│   CLASS    ::  Fullstack Engineer ++ ML Operator                │
+│   UPTIME   ::  5+ years  //  no planned maintenance             │
+│   WEAKNESS ::  git blame  &&  cold coffee                       │
+│                                                                 │
+│   CURRENT OP :: building things that shouldn't exist            │
+│   LAST SEEN  :: touching grass (2021, unconfirmed)              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```bash
+[ROOT@github ~]# lsmod | grep capabilities
+```
+
+<div align="center">
+
+**`// NEURAL STACK`**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=00ff41)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=00ff41)
+
+**`// FRONTEND PAYLOAD`**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff41)
+
+**`// BACKEND INFRASTRUCTURE`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff41)
+
+**`// TOOLS OF THE TRADE`**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=00ff41)
+
+</div>
+
+---
+
+```bash
+[ROOT@github ~]# ls -la /ops/projects/
+```
+
+```
+total 4 operations // DETAILS REDACTED
+
+> access --project alpha --verbose
+  ├── desc  : microservice hell that became a monolith that became regret
+  ├── stack : Python · FastAPI · PostgreSQL · Redis · Docker
+  └── status: PROD // somehow still alive
+
+> access --project neural-thing --verbose
+  ├── desc  : model that predicts things with 87% accuracy (13% is creativity)
+  ├── stack : PyTorch · CUDA · HuggingFace · wandb
+  └── status: TRAINING // epoch 99 of ∞
+
+> access --project dashboard-zero --verbose
+  ├── desc  : real-time analytics that judges your life choices
+  ├── stack : Next.js · TypeScript · D3.js · WebSockets
+  └── status: DEPLOYED
+
+> access --project cli-phantom --verbose
+  ├── desc  : does in 0.3s what used to take 30s
+  ├── stack : Rust · Clap · Tokio
+  └── status: SHIPPED ✓
+```
+
+---
+
+```bash
+[ROOT@github ~]# ./stats --render --theme=matrix
+```
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&langs_count=8"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&currStreakNum=00ff41&sideNums=00ff41"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area_color=001a00&area=true&hide_border=true&custom_title=[COMMIT%20TRACE%20/%20LAST%2030%20DAYS]"/>
+
+</div>
+
+---
+
+```bash
+[ROOT@github ~]# cat /var/log/career.log | grep SUCCESS
+```
+
+```
+[????-??-??] [INFO]  First "Hello World" — committed to prod immediately
+[????-??-??] [INFO]  Survived first production outage. Caused by self.
+[????-??-??] [WARN]  Deployed on Friday 18:00. Survived. Never again.
+[????-??-??] [INFO]  Fixed prod bug using only console.log(). Legendary.
+[????-??-??] [INFO]  ML model reached 90%+ accuracy. Cried a little.
+[????-??-??] [WARN]  git push --force on main. Survived. Colleague did not.
+[????-??-??] [INFO]  Wrote code so clean, senior thought AI generated it.
+[????-??-??] [INFO]  Containerized entire life. Still debugging.
+```
+
+---
+
+```bash
+[ROOT@github ~]# cat /etc/network/contacts
+```
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)](https://t.me/YOUR_TG)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR_LI)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://yoursite.dev)
+
+</div>
+
+---
+
+```bash
+[ROOT@github ~]# shutdown -h now
+```
+
+<div align="center">
+
+```
+> closing secure tunnel...
+> wiping logs...
+> [████████████████████████████████] 100%
+> connection terminated.
+>
+> "любой достаточно сложный код
+>  неотличим от магии."
+>                         — я, в 3 ночи
+>
+> — EOF —
+```
+
+![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+`// MADE IN 🇰🇿 · RUNNING ON ☕ · POWERED BY SLEEP DEPRIVATION`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&stroke=00ff41&strokeWidth=1"/>
+
+</div>
+
+
+<div align="center">
+
 ```
 ███████╗██╗   ██╗ ██████╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗
 ██╔════╝██║   ██║██╔════╝██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║
