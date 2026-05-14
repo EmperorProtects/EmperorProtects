@@ -1,16 +1,160 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EmperorProtects/EmperorProtects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+███████╗██╗   ██╗ ██████╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗
+██╔════╝██║   ██║██╔════╝██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║
+███████╗██║   ██║██║     █████╔╝      ╚████╔╝ ██║   ██║██║   ██║
+╚════██║██║   ██║██║     ██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║
+███████║╚██████╔╝╚██████╗██║  ██╗       ██║   ╚██████╔╝╚██████╔╝
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝
+```
 
-Here are some ideas to get you started:
+### `> whoami`
+# Я тот самый человек, который в 3 ночи дебажит нейросеть и одновременно фиксит прод 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Fullstack+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Coffee+%E2%86%92+Code+%E2%86%92+Regret+%E2%86%92+Repeat;git+push+--force+%28не+делайте+так%29;404%3A+Sleep+not+found)](https://git.io/typing-svg)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=for-the-badge&label=ЛЮДЕЙ+ВЫЖИЛО+ПОСЛЕ+МОЙ+КОДА)
+
+</div>
+
+---
+
+## `$ cat /etc/about_me`
+
+```python
+class Developer:
+    def __init__(self):
+        self.name        = "ВАШ НИКНЕЙМ"
+        self.location    = "🇰🇿 Казахстан / где-то между дедлайном и отчаянием"
+        self.role        = ["Fullstack Dev", "ML Engineer", "DevOps по необходимости"]
+        self.status      = "⚡ В процессе превращения кофе в код"
+        self.sleep       = False  # deprecated since 2021
+        self.languages   = ["Python", "TypeScript", "SQL", "мат на трёх языках"]
+        self.life_motto  = "Работает? Не трогай. Не работает? git blame кого-нибудь другого"
+
+    def say_hi(self):
+        print("Привет! Я строю вещи, которые иногда работают в продакшне 👁️")
+
+    def current_mood(self):
+        import random
+        return random.choice(["🔥 в потоке", "💀 пофиксил баг, создал два новых", "☕ жду пока закипит"])
+```
+
+---
+
+## `$ ls -la ./tech_stack/`
+
+<div align="center">
+
+### 🧠 ML / AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🛠️ Инструменты выживания
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ./projects/legendary.txt`
+
+> ⚠️ Некоторые проекты засекречены. Не потому что NDA — просто стыдно за код.
+
+| 🚀 Проект | 💬 Описание | 🛠️ Стек | 🔥 Статус |
+|-----------|-------------|---------|-----------|
+| **[Project Alpha](#)** | То, что началось как "сделаю за выходные" | Python, FastAPI, боль | `production somehow` |
+| **[Neural Тhing](#)** | Нейросеть которая почти всегда права | PyTorch, Docker, надежда | `в разработке вечно` |
+| **[Dashboard X](#)** | Дашборд с графиками, которые смотрят на тебя осуждающе | React, D3.js, PostgreSQL | `works on my machine™` |
+| **[CLI Tool Y](#)** | Автоматизировал то, что занимало 30 сек — теперь занимает 25 | Rust, Go, гордость | `✅ shipped` |
+
+---
+
+## `$ ./github_stats.sh`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `$ cat /proc/achievements`
+
+```
+[████████████████████] 100% — Написал код который работает с первого раза (один раз)
+[████████████░░░░░░░░]  60% — Понял что такое чистый код (писать так — другое дело)
+[████████████████████] 100% — Отладил по console.log() в продакшне
+[████░░░░░░░░░░░░░░░░]  20% — Нормальный режим сна
+[████████████████████] 100% — Stackoverflow Survival Expert
+[████████████████████] 100% — Убедил себя что "потом отрефакторю"
+[████████████████████] 100% — Задеплоил в пятницу вечером и выжил (один раз)
+```
+
+---
+
+## `$ ping social_links`
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+while (alive) {
+    eat();
+    sleep();  // иногда
+    code();
+    repeat();
+}
+```
+
+### Если мой код работает — не трогай его. Если не работает — тоже не трогай, я сам разберусь.
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+*⚡ Этот README обновляется каждый раз, когда я в очередной раз переосмысливаю свою жизнь*
+
+**Made with 💀 and too much ☕ in 🇰🇿**
