@@ -9,10 +9,11 @@
 ![](https://komarev.com/ghpvc/?username=EmperorProtects&style=for-the-badge&color=00ff41&label=CONNECTIONS+LOGGED)
 
 </div>
-Fullstack/ML/DevOps
-Embedded enthusiast
+##Fullstack/ML/DevOps
+##Embedded enthusiast
 
-C/C++ & Haskell for chill
+#C/C++ & Haskell for chill
+
 **`// NEURAL STACK`**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
