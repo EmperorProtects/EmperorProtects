@@ -9,8 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=EmperorProtects&style=for-the-badge&color=00ff41&label=CONNECTIONS+LOGGED)
 
 </div>
-***Fullstack/ML/DevOps***
-***Embedded enthusiast***
+Fullstack/ML/DevOps
+Embedded enthusiast
 
 #C/C++ & Haskell for chill
 
