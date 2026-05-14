@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5BROOT%40github%5D%23+whoami;Fullstack+Engineer+%2F+ML+Operator;%5BROOT%40github%5D%23+cat+%2Fetc%2Fmotto;%22The+best+code+is+no+code%22;%5BROOT%40github%5D%23+uname+-a;Linux+prod-server+%7C+COFFEE-POWERED+%7C+NO+SLEEP)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff41&label=CONNECTIONS+LOGGED)
+![](https://komarev.com/ghpvc/?username=EmperorProtects&style=for-the-badge&color=00ff41&label=CONNECTIONS+LOGGED)
 
 </div>
 
