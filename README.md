@@ -10,31 +10,6 @@
 
 </div>
 
----
-
-```bash
-[ROOT@github ~]# cat /proc/identity
-```
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   HANDLE   ::  EmperorProtects                                  │
-│   CLASS    ::  Fullstack ++ ML ++ DevOps                        │
-│                                                                 │
-│   CURRENT OP :: building things that shouldn't exist            │
-│   LAST SEEN  :: touching grass (2021, unconfirmed)              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-```bash
-[ROOT@github ~]# lsmod | grep capabilities
-```
-
-<div align="center">
 
 **`// NEURAL STACK`**
 
@@ -69,22 +44,3 @@
 
 
 </div>
-
-```bash
-[ROOT@github ~]# ./stats --render --theme=matrix
-```
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41&langs_count=8"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&currStreakNum=00ff41&sideNums=00ff41"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff41&line=00ff41&point=00ff41&area_color=001a00&area=true&hide_border=true&custom_title=[COMMIT%20TRACE%20/%20LAST%2030%20DAYS]"/>
-
-</div>
-
-
-`
